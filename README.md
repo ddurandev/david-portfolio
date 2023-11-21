@@ -1,9 +1,25 @@
-# React + Vite
+# David's React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This is a portfolio that is using React "The library for web and native user interfaces" application.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# david-portfolio
+## Installation
+
+N/A
+
+## Usage
+
+Link: https://melodic-starlight-1909c0.netlify.app/
+
+Visit the link above and you'll be tacket to the About Me page as shown below. Press any of the of the buttons on the nav bar to see more.
+
+![alt text](./src/assets/page.jpeg)
+
+## Credits
+
+N/A
+
+## License
+
+Please refer to the LICENSE in the repo.
